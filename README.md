@@ -3,12 +3,12 @@
 # Hi 👋, I'm MD Ahtesham
 
 <a href="https://github.com/Ahtesham162">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A9EFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%26+API+Engineering;Exploring+AI-Powered+Applications;CS+Undergrad+%40+IIITDM+Jabalpur;Competitive+Programmer+%7C+800%2B+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A9EFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%26+API+Engineering;Exploring+AI-Powered+Applications;CS+Undergrad+%40+IIITDM+Jabalpur;Competitive+Programmer+%7C+600%2B+Problems+Solved" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://www.instagram.com/mohammad_ahtesham123/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://www.instagram.com/YOUR_USERNAME/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="https://www.linkedin.com/in/ahtesham2004/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://github.com/Ahtesham162" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="mailto:ahteshamm682@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
@@ -51,7 +51,7 @@
 
 ## 📫 Connect With Me
 
-<a href="https://www.instagram.com/mohammad_ahtesham123/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://www.instagram.com/YOUR_USERNAME/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="https://www.linkedin.com/in/ahtesham2004/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://github.com/Ahtesham162" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="mailto:ahteshamm682@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>

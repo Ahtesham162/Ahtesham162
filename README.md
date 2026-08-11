@@ -39,11 +39,15 @@
 
 ## 🚀 What I Do
 
-- 💻 **Full Stack Development** → Building web applications with ReactJS, Node.js & Express — including **DevHire AI**, a full-stack AI resume analyzer with JWT auth, OTP verification, and Gemini-powered scoring.
-- 🩻 **AI/ML** → Working with PyTorch and OpenCV — built a knee X-ray osteoporosis detection model (ResNet-18, 93% accuracy) with Grad-CAM++ explainability.
-- ⚙️ **Backend & DevOps** → Comfortable with Docker, Git/GitHub, REST APIs, RBAC & multi-level approval workflows, and API testing with Postman.
-- ⚡ **Competitive Programming & DSA** → 800+ problems solved across LeetCode (1700+), Codeforces (1400+), and CodeChef (3★, max 1605).
-- 🌱 **Currently** → Team Lead for the Institute Work Department (IWD) module at Fusion IIITDM, building complaint tracking & workflow systems integrated into the institute's ERP.
+## 🚀 What I Do
+
+## 🚀 What I Do
+
+- 💻 **Full Stack Development** → Built end-to-end web applications with React, Node.js & Express. Developed **DevHire AI**, a full-stack AI resume analyzer with JWT authentication, OTP verification, and Gemini-powered resume scoring.
+- 🩻 **AI/ML** → Worked with PyTorch and OpenCV to build applied ML models — developed a knee X-ray osteoporosis detection system (ResNet-18, 93% accuracy) with Grad-CAM++ for explainability.
+- ⚙️ **Backend & DevOps** → Designed REST APIs, RBAC systems, and multi-level approval workflows, and containerized services with Docker. Gained hands-on experience with the Git/GitHub workflow and API testing using Postman.
+- ⚡ **Competitive Programming & DSA** → Solved 800+ problems across LeetCode (1700+), Codeforces (1400+), and CodeChef (3★, peak rating 1605), building a strong foundation in algorithmic problem-solving.
+- 🎓 **Institute Work** → Led the Institute Work Department (IWD) module at Fusion IIITDM , building complaint tracking and workflow systems integrated into the institute's ERP.
 
 ---
 

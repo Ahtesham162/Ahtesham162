@@ -39,10 +39,6 @@
 
 ## 🚀 What I Do
 
-## 🚀 What I Do
-
-## 🚀 What I Do
-
 - 💻 **Full Stack Development** → Built end-to-end web applications with React, Node.js & Express. Developed **DevHire AI**, a full-stack AI resume analyzer with JWT authentication, OTP verification, and Gemini-powered resume scoring.
 - 🩻 **AI/ML** → Worked with PyTorch and OpenCV to build applied ML models — developed a knee X-ray osteoporosis detection system (ResNet-18, 93% accuracy) with Grad-CAM++ for explainability.
 - ⚙️ **Backend & DevOps** → Designed REST APIs, RBAC systems, and multi-level approval workflows, and containerized services with Docker. Gained hands-on experience with the Git/GitHub workflow and API testing using Postman.
